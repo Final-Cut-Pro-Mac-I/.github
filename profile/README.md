@@ -1,7 +1,7 @@
 # Final Cut Pro Mac
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSij_udI07EbREBUAliMh7yEaEpESlzTdCKug&s" width="200" alt="Final Cut Pro icon"/>
+  <img src="https://static.wikia.nocookie.net/logopedia/images/d/d9/Final_Cut_Pro_for_iPad_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20250925005443" width="200" alt="Final Cut Pro icon"/>
 </p>
 
 <p align="center">
